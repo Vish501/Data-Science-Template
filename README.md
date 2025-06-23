@@ -1,2 +1,2 @@
-# data-science-template
-Template structure for Data Science Projects
+# DS and ML Boilerplate Repo Structure
+A boilerplate repository template for DS and ML projects.
